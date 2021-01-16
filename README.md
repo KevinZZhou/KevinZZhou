@@ -1,5 +1,5 @@
-## Hey, I'm Kevin! 👋🏼
-<img align = "right" src = "code.png" style = "padding-bottom : 2em">
+### Hey, I'm Kevin! 👋🏼
+<img align = "right" src = "code.png" width = "240">
 
 I'm a freshman at the University of Pennsylvania studying Computer Science 👨‍💻.  I'm interested in the ways in which computation and data can be used to promote sustainable development and social impact.
 
