@@ -1,5 +1,5 @@
-### Hey, I'm Kevin! 👋🏼
-<img align = "right" src = "code.png" style = "padding-bottom : 1em">
+## Hey, I'm Kevin! 👋🏼
+<img align = "right" src = "code.png" style = "padding-bottom : 2em">
 
 I'm a freshman at the University of Pennsylvania studying Computer Science 👨‍💻.  I'm interested in the ways in which computation and data can be used to promote sustainable development and social impact.
 
@@ -13,4 +13,4 @@ Favorites:
 - 🎶 : "Sir Duke" - Stevie Wonder
 - 📰 : [Axios](https://www.axios.com/), [Quanta](https://www.quantamagazine.org/), [Aeon](https://aeon.co/)
 
-Feel free to reach out to me via e-mail (kzzhou@sas.upenn.edu) or through [LinkedIn](www.linkedin.com/in/kzzhou)!
+Feel free to reach out to me via e-mail (kzzhou@sas.upenn.edu) or through [LinkedIn](https://www.linkedin.com/in/kzzhou)!
