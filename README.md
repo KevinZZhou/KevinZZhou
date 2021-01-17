@@ -7,10 +7,4 @@ I'm an Associate Consultant for [Global Research and Consulting](https://www.grc
 
 Currently, I'm focused on becoming more proficient in various data analysis and visualization tools using Python and R.  I am also learning more about machine learning and its potential applications to address real-world issues.
 
-Favorites: 
-- 📚 : *Crime and Punishment* - Fyodor Dostoevsky
-- 🎥 : *Wild Strawberries* - Ingmar Bergman
-- 🎶 : "Sir Duke" - Stevie Wonder
-- 📰 : [Axios](https://www.axios.com/), [Quanta](https://www.quantamagazine.org/), [Aeon](https://aeon.co/)
-
 Feel free to reach out to me via e-mail (kzzhou@sas.upenn.edu) or through [LinkedIn](https://www.linkedin.com/in/kzzhou)!
