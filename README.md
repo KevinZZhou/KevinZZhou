@@ -7,7 +7,7 @@ technology for social good in various domains.
 
 This past summer, I interned at the Miami Department of Innovation 
 and Technology (DoIT) doing data science work as a member of the 
-Civic Innovation Corps, a program connectin young technologists to 
+Civic Innovation Corps, a program connecting young technologists to 
 civic tech opportunities.
 
 At Penn, I'm a Project Lead for Global Research and Consulting (GRC) 
